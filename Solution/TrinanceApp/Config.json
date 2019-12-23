@@ -1,8 +1,8 @@
 {
   "EXCHANGE": "BINANCE",
   "KEYS": {
-    "API": "M0sSTBV8gJ2azP3nFEWLchymHufx26QsjaGSIgqJj69CXJP6t3JF0yUQlaYGtYRl",
-    "SECRET": "FbKG27X370S7zMsBnc8kwkNXpr91Wc9Q9q12tAtkI42kBnZOwcFhay54IMG3COMG"
+    "API": "X",
+    "SECRET": "Y"
   },
   "DATA": {
     "SIZE": 50,
