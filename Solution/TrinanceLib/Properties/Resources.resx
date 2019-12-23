@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ArbitrageCommission" xml:space="preserve">
+    <value>   BNB Commission: {0}</value>
+  </data>
+  <data name="ArbitrageDelta" xml:space="preserve">
+    <value>   {0} Delta: {0}{1} ({2}%)</value>
+  </data>
+  <data name="ArbitrageDeltas" xml:space="preserve">
+    <value> - Deltas</value>
+  </data>
+  <data name="ArbitrageDiscardedAge" xml:space="preserve">
+    <value>DISCARDED: the age ({0}ms) is greater than the {1}ms threshold.</value>
+  </data>
+  <data name="ArbitrageDiscardedAssets" xml:space="preserve">
+    <value>DISCARDED: one or more reference assets are currently involved in another execution.</value>
+  </data>
+  <data name="ArbitrageDiscardedCap" xml:space="preserve">
+    <value>DISCARDED: the executions cap of {0} has been reached.</value>
+  </data>
+  <data name="ArbitrageDiscardedCooldown" xml:space="preserve">
+    <value>DISCARDED: more than one execution has been attempted during the last second.</value>
+  </data>
+  <data name="ArbitrageDiscardedProfit" xml:space="preserve">
+    <value>DISCARDED: the profit is less than the {0}% threshold.</value>
+  </data>
+  <data name="ArbitrageExpectedConversion" xml:space="preserve">
+    <value>   Expected Conversion: {0} {1} -&gt; {2} {3}</value>
+  </data>
+  <data name="ArbitrageFailed" xml:space="preserve">
+    <value>FAILURE: arbitrage execution failed using the {0} strategy: {1}.</value>
+  </data>
+  <data name="ArbitrageFound" xml:space="preserve">
+    <value>[ARBITRAGE \"{0}\" Profit: {1}%]</value>
+  </data>
+  <data name="ArbitrageObservedConversion" xml:space="preserve">
+    <value>   Observed Conversion: {0} {1} -&gt; {2} {3}</value>
+  </data>
+  <data name="ArbitrageOthers" xml:space="preserve">
+    <value> - Others</value>
+  </data>
+  <data name="ArbitrageStep" xml:space="preserve">
+    <value> - Step {0}</value>
+  </data>
+  <data name="ArbitrageSucceded" xml:space="preserve">
+    <value>SUCCESS: arbitrage execution succeded using the {0} strategy:</value>
+  </data>
+  <data name="BalancesKO" xml:space="preserve">
+    <value>BALANCES: loading failed, {0}.</value>
+  </data>
+  <data name="BalancesOK" xml:space="preserve">
+    <value>BALANCES: loading succeded, {0} wallet{1} found:</value>
+  </data>
+  <data name="BalancesOK0" xml:space="preserve">
+    <value>BALANCES: loading succeded, no balances found.</value>
+  </data>
+  <data name="ConfigurationFileInvalid" xml:space="preserve">
+    <value>Invalid configuration file path specified.</value>
+  </data>
+  <data name="ConfigurationFileNotFound" xml:space="preserve">
+    <value>The configuration file could not be found.</value>
+  </data>
+  <data name="ConnectivityKO" xml:space="preserve">
+    <value>CONNECTIVITY TEST: connection failed, {0}.</value>
+  </data>
+  <data name="CycleCompleted" xml:space="preserve">
+    <value>Cycle completed in {0}ms, average duration of {1}.</value>
+  </data>
+  <data name="CycleSkipped" xml:space="preserve">
+    <value>Cycle skipped, the threshold of {0}ms has been exceeded.</value>
+  </data>
+  <data name="DepthsTooShallow" xml:space="preserve">
+    <value>Depths are too shallow.</value>
+  </data>
+  <data name="EngineNotInitialized" xml:space="preserve">
+    <value>The exchange engine has not been initialized.</value>
+  </data>
+  <data name="ExchangeInitialization" xml:space="preserve">
+    <value>[EXCHANGE INITIALIZATION]</value>
+  </data>
+  <data name="InvalidBaseAsset" xml:space="preserve">
+    <value>Invalid base asset specified.</value>
+  </data>
+  <data name="InvalidConfigurationExchange" xml:space="preserve">
+    <value>Invalid exchange defined in the configuration file.</value>
+  </data>
+  <data name="InvalidDataStagger" xml:space="preserve">
+    <value>The DATA.STAGGER parameter must be greater than or equal to {0}.</value>
+  </data>
+  <data name="InvalidDustDecimals" xml:space="preserve">
+    <value>The dust decimals value must be greater than or equal to 0.</value>
+  </data>
+  <data name="InvalidEnumeratorValue" xml:space="preserve">
+    <value>Invalid enumerator value.</value>
+  </data>
+  <data name="InvalidInvestmentBaseAsset" xml:space="preserve">
+    <value>The INVESTMENT.BASE_ASSET parameter is not valid.</value>
+  </data>
+  <data name="InvalidInvestmentMaximum" xml:space="preserve">
+    <value>The INVESTMENT.MAXIMUM parameter must be greater than 0.</value>
+  </data>
+  <data name="InvalidInvestmentMinimum" xml:space="preserve">
+    <value>The INVESTMENT.MINIMUM parameter must be greater than 0.</value>
+  </data>
+  <data name="InvalidInvestmentMinimumMaximum" xml:space="preserve">
+    <value>The INVESTMENT.MINIMUM parameter must be less than or equal to the INVESTMENT.MAXIMUM parameter.</value>
+  </data>
+  <data name="InvalidInvestmentStep" xml:space="preserve">
+    <value>The INVESTMENT.STEP parameter must be greater than 0.</value>
+  </data>
+  <data name="InvalidInvestmentSteps" xml:space="preserve">
+    <value>There are not enough steps between INVESTMENT.MINIMUM and INVESTMENT.MAXIMUM.</value>
+  </data>
+  <data name="InvalidKeysApi" xml:space="preserve">
+    <value>The KEYS.API parameter is not valid.</value>
+  </data>
+  <data name="InvalidKeysSecret" xml:space="preserve">
+    <value>The KEYS.SECRET parameter is not valid.</value>
+  </data>
+  <data name="InvalidLeg" xml:space="preserve">
+    <value>Invalid leg specified.</value>
+  </data>
+  <data name="InvalidPosition" xml:space="preserve">
+    <value>Invalid position specified.</value>
+  </data>
+  <data name="InvalidQuoteAsset" xml:space="preserve">
+    <value>Invalid quote asset specified.</value>
+  </data>
+  <data name="InvalidReferenceAsset" xml:space="preserve">
+    <value>Invalid reference asset specified.</value>
+  </data>
+  <data name="InvalidStep" xml:space="preserve">
+    <value>Invalid step specified.</value>
+  </data>
+  <data name="InvalidSymbol" xml:space="preserve">
+    <value>Invalid symbol specified.</value>
+  </data>
+  <data name="InvalidTradingCyclesDelay" xml:space="preserve">
+    <value>The TRADING.CYCLES_DELAY parameter must be greater than or equal to {0}.</value>
+  </data>
+  <data name="InvalidTradingExecutionsCap" xml:space="preserve">
+    <value>The TRADING.EXECUTIONS_CAP parameter must be greater than or equal to 0.</value>
+  </data>
+  <data name="InvalidTradingPositions" xml:space="preserve">
+    <value>The TRADING.POSITIONS parameter must contain 3 positions and cannot be all the same.</value>
+  </data>
+  <data name="InvalidTradingStrategyParallel" xml:space="preserve">
+    <value>The TRADING.STRATEGY parameter, when set to PARALLEL, requires defining a non-empty TRADING.WHITELIST parameter.</value>
+  </data>
+  <data name="InvalidTradingTakerFee" xml:space="preserve">
+    <value>The TRADING.TAKER_FEE parameter must be greater than or equal to 0.</value>
+  </data>
+  <data name="InvalidTradingThresholdAge" xml:space="preserve">
+    <value>The TRADING.THRESHOLD_AGE parameter must be greater than or equal to {0}.</value>
+  </data>
+  <data name="InvalidTradingThresholdProfit" xml:space="preserve">
+    <value>The TRADING.THRESHOLD_PROFIT parameter must be greater than 0.</value>
+  </data>
+  <data name="InvalidTradingWhitelistAssets" xml:space="preserve">
+    <value>The TRADING.WHITELIST parameter, when defined, must include only valid assets.</value>
+  </data>
+  <data name="InvalidTradingWhitelistBaseAsset" xml:space="preserve">
+    <value>The TRADING.WHITELIST parameter, when defined, must include the base asset.</value>
+  </data>
+  <data name="LoginKO" xml:space="preserve">
+    <value>LOGIN: authentication failed, {0}.</value>
+  </data>
+  <data name="LoginOK" xml:space="preserve">
+    <value>LOGIN: authentication succeded.</value>
+  </data>
+  <data name="MessageConnectivityOK" xml:space="preserve">
+    <value>CONNECTIVITY TEST: connection succeded, average ping of {0}ms.</value>
+  </data>
+  <data name="NoAvailableAsks" xml:space="preserve">
+    <value>No asks available.</value>
+  </data>
+  <data name="NoAvailableBids" xml:space="preserve">
+    <value>No bids available.</value>
+  </data>
+  <data name="NoBidAskSpread" xml:space="preserve">
+    <value>No spread between bid and ask.</value>
+  </data>
+  <data name="NoTriangularRelationships" xml:space="preserve">
+    <value>No triangular relationships found.</value>
+  </data>
+  <data name="OrderBooksKO" xml:space="preserve">
+    <value>ORDER BOOKS: initialization failed, {0}.</value>
+  </data>
+  <data name="OrderBooksOK" xml:space="preserve">
+    <value>ORDER BOOKS: initialization succeded, {0} websocket{1} subscribed.</value>
+  </data>
+  <data name="ServerMaintenance" xml:space="preserve">
+    <value>The server is under maintenance.</value>
+  </data>
+  <data name="ServerPing" xml:space="preserve">
+    <value>The server did not answer a ping request.</value>
+  </data>
+  <data name="TradesKO" xml:space="preserve">
+    <value>TRADES: computation failed, {0}.</value>
+  </data>
+  <data name="TradesOK" xml:space="preserve">
+    <value>TRADES: computation succeded, {0} triangular relationship{1} found.</value>
+  </data>
+  <data name="TradingSession" xml:space="preserve">
+    <value>* TRADING SESSION STARTED AT {0} *</value>
+  </data>
+  <data name="UnhandledTokenNull" xml:space="preserve">
+    <value>Cannot convert null token to {0}.</value>
+  </data>
+  <data name="UnhandledTokenType" xml:space="preserve">
+    <value>Unhandled token {0} in {1}.</value>
+  </data>
+</root>

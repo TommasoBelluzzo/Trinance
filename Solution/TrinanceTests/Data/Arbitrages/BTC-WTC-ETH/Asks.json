@@ -1,0 +1,608 @@
+[
+  [
+    {
+      "Price": 0.00005400,
+      "Quantity": 9444.47
+    },
+    {
+      "Price": 0.00005460,
+      "Quantity": 1173.33
+    },
+    {
+      "Price": 0.00005480,
+      "Quantity": 1794.14
+    },
+    {
+      "Price": 0.00005490,
+      "Quantity": 609.44
+    },
+    {
+      "Price": 0.00005500,
+      "Quantity": 131.71
+    },
+    {
+      "Price": 0.00005510,
+      "Quantity": 3371.41
+    },
+    {
+      "Price": 0.00005520,
+      "Quantity": 6660.68
+    },
+    {
+      "Price": 0.00005530,
+      "Quantity": 2625.42
+    },
+    {
+      "Price": 0.00005540,
+      "Quantity": 4068.65
+    },
+    {
+      "Price": 0.00005550,
+      "Quantity": 4780.07
+    },
+    {
+      "Price": 0.00005560,
+      "Quantity": 3893.22
+    },
+    {
+      "Price": 0.00005570,
+      "Quantity": 185.57
+    },
+    {
+      "Price": 0.00005580,
+      "Quantity": 1035.83
+    },
+    {
+      "Price": 0.00005590,
+      "Quantity": 3072.3
+    },
+    {
+      "Price": 0.00005600,
+      "Quantity": 1425.3
+    },
+    {
+      "Price": 0.00005610,
+      "Quantity": 356.96
+    },
+    {
+      "Price": 0.00005620,
+      "Quantity": 1112.12
+    },
+    {
+      "Price": 0.00005630,
+      "Quantity": 1000
+    },
+    {
+      "Price": 0.00005640,
+      "Quantity": 2000.32
+    },
+    {
+      "Price": 0.00005650,
+      "Quantity": 6847.92
+    },
+    {
+      "Price": 0.00005660,
+      "Quantity": 236.44
+    },
+    {
+      "Price": 0.00005670,
+      "Quantity": 495.55
+    },
+    {
+      "Price": 0.00005680,
+      "Quantity": 2219.33
+    },
+    {
+      "Price": 0.00005690,
+      "Quantity": 173.25
+    },
+    {
+      "Price": 0.00005700,
+      "Quantity": 14.54
+    },
+    {
+      "Price": 0.00005710,
+      "Quantity": 4.63
+    },
+    {
+      "Price": 0.00005720,
+      "Quantity": 3150.83
+    },
+    {
+      "Price": 0.00005730,
+      "Quantity": 730.34
+    },
+    {
+      "Price": 0.00005740,
+      "Quantity": 1639.15
+    },
+    {
+      "Price": 0.00005750,
+      "Quantity": 4515.32
+    },
+    {
+      "Price": 0.00005760,
+      "Quantity": 244.04
+    },
+    {
+      "Price": 0.00005770,
+      "Quantity": 5923.2
+    },
+    {
+      "Price": 0.00005780,
+      "Quantity": 633.9
+    },
+    {
+      "Price": 0.00005790,
+      "Quantity": 1358.24
+    },
+    {
+      "Price": 0.00005800,
+      "Quantity": 1877.09
+    },
+    {
+      "Price": 0.00005810,
+      "Quantity": 6846.38
+    },
+    {
+      "Price": 0.00005820,
+      "Quantity": 13181.68
+    },
+    {
+      "Price": 0.00005830,
+      "Quantity": 77.91
+    },
+    {
+      "Price": 0.00005840,
+      "Quantity": 97.46
+    },
+    {
+      "Price": 0.00005850,
+      "Quantity": 3045.63
+    },
+    {
+      "Price": 0.00005860,
+      "Quantity": 194.58
+    },
+    {
+      "Price": 0.00005870,
+      "Quantity": 560
+    },
+    {
+      "Price": 0.00005880,
+      "Quantity": 1716.63
+    },
+    {
+      "Price": 0.00005890,
+      "Quantity": 229.73
+    },
+    {
+      "Price": 0.00005900,
+      "Quantity": 478.46
+    },
+    {
+      "Price": 0.00005930,
+      "Quantity": 502.28
+    },
+    {
+      "Price": 0.00005940,
+      "Quantity": 4146.19
+    },
+    {
+      "Price": 0.00005950,
+      "Quantity": 10429.81
+    },
+    {
+      "Price": 0.00005960,
+      "Quantity": 2773.98
+    },
+    {
+      "Price": 0.00005970,
+      "Quantity": 2000.71
+    }
+  ],
+  [
+    {
+      "Price": 0.00305500,
+      "Quantity": 87.04
+    },
+    {
+      "Price": 0.00305700,
+      "Quantity": 237.28
+    },
+    {
+      "Price": 0.00306000,
+      "Quantity": 500
+    },
+    {
+      "Price": 0.00306700,
+      "Quantity": 25.93
+    },
+    {
+      "Price": 0.00307000,
+      "Quantity": 2036.1
+    },
+    {
+      "Price": 0.00307100,
+      "Quantity": 999
+    },
+    {
+      "Price": 0.00307500,
+      "Quantity": 9.87
+    },
+    {
+      "Price": 0.00307600,
+      "Quantity": 27.94
+    },
+    {
+      "Price": 0.00307800,
+      "Quantity": 6.06
+    },
+    {
+      "Price": 0.00308000,
+      "Quantity": 352.41
+    },
+    {
+      "Price": 0.00308100,
+      "Quantity": 585.08
+    },
+    {
+      "Price": 0.00308800,
+      "Quantity": 42.75
+    },
+    {
+      "Price": 0.00308900,
+      "Quantity": 85.64
+    },
+    {
+      "Price": 0.00309600,
+      "Quantity": 8.89
+    },
+    {
+      "Price": 0.00309700,
+      "Quantity": 129.96
+    },
+    {
+      "Price": 0.00309800,
+      "Quantity": 6.83
+    },
+    {
+      "Price": 0.00310900,
+      "Quantity": 4.46
+    },
+    {
+      "Price": 0.00311100,
+      "Quantity": 6.25
+    },
+    {
+      "Price": 0.00311300,
+      "Quantity": 8.18
+    },
+    {
+      "Price": 0.00311500,
+      "Quantity": 4.82
+    },
+    {
+      "Price": 0.00311800,
+      "Quantity": 226.61
+    },
+    {
+      "Price": 0.00312300,
+      "Quantity": 179.66
+    },
+    {
+      "Price": 0.00312400,
+      "Quantity": 1446.56
+    },
+    {
+      "Price": 0.00312500,
+      "Quantity": 928.63
+    },
+    {
+      "Price": 0.00313900,
+      "Quantity": 843.42
+    },
+    {
+      "Price": 0.00314000,
+      "Quantity": 727.42
+    },
+    {
+      "Price": 0.00314900,
+      "Quantity": 6.44
+    },
+    {
+      "Price": 0.00317200,
+      "Quantity": 86.35
+    },
+    {
+      "Price": 0.00317300,
+      "Quantity": 8.59
+    },
+    {
+      "Price": 0.00317400,
+      "Quantity": 4.28
+    },
+    {
+      "Price": 0.00318000,
+      "Quantity": 9.44
+    },
+    {
+      "Price": 0.00318500,
+      "Quantity": 9.25
+    },
+    {
+      "Price": 0.00318800,
+      "Quantity": 306.82
+    },
+    {
+      "Price": 0.00319200,
+      "Quantity": 6.63
+    },
+    {
+      "Price": 0.00319400,
+      "Quantity": 348.64
+    },
+    {
+      "Price": 0.00320000,
+      "Quantity": 28.73
+    },
+    {
+      "Price": 0.00320300,
+      "Quantity": 181.73
+    },
+    {
+      "Price": 0.00320500,
+      "Quantity": 109.33
+    },
+    {
+      "Price": 0.00320900,
+      "Quantity": 1127.25
+    },
+    {
+      "Price": 0.00321000,
+      "Quantity": 220
+    },
+    {
+      "Price": 0.00323300,
+      "Quantity": 45.54
+    },
+    {
+      "Price": 0.00323500,
+      "Quantity": 6524.35
+    },
+    {
+      "Price": 0.00323800,
+      "Quantity": 89.81
+    },
+    {
+      "Price": 0.00324000,
+      "Quantity": 6.83
+    },
+    {
+      "Price": 0.00326300,
+      "Quantity": 8.89
+    },
+    {
+      "Price": 0.00329000,
+      "Quantity": 34.02
+    },
+    {
+      "Price": 0.00329400,
+      "Quantity": 157.03
+    },
+    {
+      "Price": 0.00329700,
+      "Quantity": 75.72
+    },
+    {
+      "Price": 0.00329900,
+      "Quantity": 2630.17
+    },
+    {
+      "Price": 0.00330000,
+      "Quantity": 4995
+    }
+  ],
+  [
+    {
+      "Price": 0.01787500,
+      "Quantity": 0.222
+    },
+    {
+      "Price": 0.01787600,
+      "Quantity": 2.44
+    },
+    {
+      "Price": 0.01788000,
+      "Quantity": 0.957
+    },
+    {
+      "Price": 0.01788100,
+      "Quantity": 3.819
+    },
+    {
+      "Price": 0.01788300,
+      "Quantity": 3.826
+    },
+    {
+      "Price": 0.01788400,
+      "Quantity": 12
+    },
+    {
+      "Price": 0.01788500,
+      "Quantity": 15.152
+    },
+    {
+      "Price": 0.01788600,
+      "Quantity": 1.828
+    },
+    {
+      "Price": 0.01788700,
+      "Quantity": 36.177
+    },
+    {
+      "Price": 0.01788800,
+      "Quantity": 18.526
+    },
+    {
+      "Price": 0.01788900,
+      "Quantity": 11.187
+    },
+    {
+      "Price": 0.01789000,
+      "Quantity": 14.11
+    },
+    {
+      "Price": 0.01789200,
+      "Quantity": 6.383
+    },
+    {
+      "Price": 0.01789300,
+      "Quantity": 5.174
+    },
+    {
+      "Price": 0.01789900,
+      "Quantity": 10
+    },
+    {
+      "Price": 0.01790000,
+      "Quantity": 1.833
+    },
+    {
+      "Price": 0.01790100,
+      "Quantity": 4.704
+    },
+    {
+      "Price": 0.01790200,
+      "Quantity": 3
+    },
+    {
+      "Price": 0.01790500,
+      "Quantity": 12.677
+    },
+    {
+      "Price": 0.01790700,
+      "Quantity": 4
+    },
+    {
+      "Price": 0.01790800,
+      "Quantity": 1.039
+    },
+    {
+      "Price": 0.01790900,
+      "Quantity": 43.714
+    },
+    {
+      "Price": 0.01791000,
+      "Quantity": 2.3
+    },
+    {
+      "Price": 0.01791100,
+      "Quantity": 0.44
+    },
+    {
+      "Price": 0.01791300,
+      "Quantity": 1.534
+    },
+    {
+      "Price": 0.01791400,
+      "Quantity": 15.342
+    },
+    {
+      "Price": 0.01791500,
+      "Quantity": 42.888
+    },
+    {
+      "Price": 0.01791600,
+      "Quantity": 0.977
+    },
+    {
+      "Price": 0.01791700,
+      "Quantity": 96.64
+    },
+    {
+      "Price": 0.01791900,
+      "Quantity": 0.119
+    },
+    {
+      "Price": 0.01792000,
+      "Quantity": 15.352
+    },
+    {
+      "Price": 0.01792100,
+      "Quantity": 0.05
+    },
+    {
+      "Price": 0.01792300,
+      "Quantity": 30.1
+    },
+    {
+      "Price": 0.01792500,
+      "Quantity": 136.425
+    },
+    {
+      "Price": 0.01792600,
+      "Quantity": 23.01
+    },
+    {
+      "Price": 0.01792900,
+      "Quantity": 0.429
+    },
+    {
+      "Price": 0.01793000,
+      "Quantity": 29.204
+    },
+    {
+      "Price": 0.01793300,
+      "Quantity": 96.41
+    },
+    {
+      "Price": 0.01793400,
+      "Quantity": 4.015
+    },
+    {
+      "Price": 0.01793600,
+      "Quantity": 45.357
+    },
+    {
+      "Price": 0.01793800,
+      "Quantity": 3
+    },
+    {
+      "Price": 0.01794100,
+      "Quantity": 13.848
+    },
+    {
+      "Price": 0.01794400,
+      "Quantity": 0.4
+    },
+    {
+      "Price": 0.01794700,
+      "Quantity": 29.29
+    },
+    {
+      "Price": 0.01794800,
+      "Quantity": 2.845
+    },
+    {
+      "Price": 0.01795000,
+      "Quantity": 6
+    },
+    {
+      "Price": 0.01795100,
+      "Quantity": 0.009
+    },
+    {
+      "Price": 0.01795200,
+      "Quantity": 13.848
+    },
+    {
+      "Price": 0.01795300,
+      "Quantity": 0.149
+    },
+    {
+      "Price": 0.01795500,
+      "Quantity": 0.04
+    }
+  ]
+]

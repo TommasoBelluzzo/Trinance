@@ -1,0 +1,28 @@
+{
+  "EXCHANGE": "BINANCE",
+  "KEYS": {
+    "API": "M0sSTBV8gJ2azP3nFEWLchymHufx26QsjaGSIgqJj69CXJP6t3JF0yUQlaYGtYRl",
+    "SECRET": "FbKG27X370S7zMsBnc8kwkNXpr91Wc9Q9q12tAtkI42kBnZOwcFhay54IMG3COMG"
+  },
+  "DATA": {
+    "SIZE": 50,
+    "STAGGER": 50
+  },
+  "INVESTMENT": {
+    "BASE_ASSET": "BTC",
+    "MINIMUM": 0.0050,
+    "MAXIMUM": 0.0400,
+    "STEP": 0.0050
+  },
+  "TRADING": {
+    "ENABLED": false,
+    "CYCLES_DELAY": 200,
+    "EXECUTIONS_CAP": 1,
+    "POSITIONS": [ "BUY", "SELL", "SELL" ],
+    "STRATEGY": "SEQUENTIAL",
+    "TAKER_FEE": 0.0750,
+    "THRESHOLD_AGE": 300,
+    "THRESHOLD_PROFIT": 3.0000,
+    "WHITELIST": []
+  }
+}

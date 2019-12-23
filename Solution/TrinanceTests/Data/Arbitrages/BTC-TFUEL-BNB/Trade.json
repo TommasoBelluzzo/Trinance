@@ -1,0 +1,27 @@
+{
+  "Identifier": "BTC-TFUEL-BNB",
+  "Leg1": {
+    "DustDecimals": 0,
+    "Position": "BUY",
+    "BaseAsset": "TFUEL",
+    "QuoteAsset": "BTC",
+    "ReferenceAsset": "BTC",
+    "Symbol": "TFUELBTC"
+  },
+  "Leg2": {
+    "DustDecimals": 0,
+    "Position": "SELL",
+    "BaseAsset": "TFUEL",
+    "QuoteAsset": "BNB",
+    "ReferenceAsset": "TFUEL",
+    "Symbol": "TFUELBNB"
+  },
+  "Leg3": {
+    "DustDecimals": 2,
+    "Position": "SELL",
+    "BaseAsset": "BNB",
+    "QuoteAsset": "BTC",
+    "ReferenceAsset": "BNB",
+    "Symbol": "BNBBTC"
+  }
+}
