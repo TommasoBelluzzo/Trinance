@@ -1,8 +1,8 @@
 {
   "EXCHANGE": "BINANCE",
   "KEYS": {
-    "API": "X",
-    "SECRET": "Y"
+    "API": "",
+    "SECRET": ""
   },
   "DATA": {
     "SIZE": 50,
